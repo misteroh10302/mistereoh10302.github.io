@@ -1,0 +1,19 @@
+/* This is where we will be writing all of your styles */
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+TC:400,600|Roboto:400,700');
+
+body {
+  background-color: red;
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 40px;
+  font-family: 'Noto Serif TC', serif;
+}
+
+h2 {
+  font-style: italic;
+}
